@@ -6,8 +6,20 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+## About this project
 
-## About Laravel
+-templete mastering.
+-product show by category.
+-customer login.
+-customer logout.
+-product details by id.
+-product add in cart, product edit in cart, product delete in cart.
+-create admin panel.
+-add category, manage category edit category, delete category.
+-add Brand, manage brand edit Brand, delete Brand.
+-add product, manage product, edit product, delete product.
+
+# About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
 
